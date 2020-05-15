@@ -27,7 +27,7 @@ platzom("Programar") //Program
 platzom("Zorro") //Zorrope
 platzom("Zarpar") //Zarppe
 platzom("abecedario") //abece-dario
-platzom("soetemos") //SoMeTeMoS
+platzom("Sometemos") //SoMeTeMoS
 ```
 ##Créditos 
 - [Madelen Azocar]
